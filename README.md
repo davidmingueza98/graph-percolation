@@ -31,7 +31,7 @@ which is generated at the same time that tests are performed to improve the effi
 Aleatory graphs are implemented with an adjacency matrix.
 Each model has an associated method that returns their aleatory graph.
 
-The complete list is:
+The models studied are:
 - Grid
 - Erdős-Rényi
 - Watts-Strogatz
@@ -40,7 +40,7 @@ The complete list is:
 
 ## Documentation
 
-Check the full report of the models and experiments in [report.pdf](./docs/report.pdf) (Spanish)
+Check the full report of the models and experiments in [report.pdf](./docs/report.pdf). (Spanish)
 
 ## Credits
 
